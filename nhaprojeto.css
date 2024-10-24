@@ -1,0 +1,54 @@
+.menu{
+    display: flex;
+
+}
+
+.link{
+    display:flex;
+    color:white;
+    list-style:none;
+   
+   
+
+}
+
+.link li{
+    margin:0 20px;
+   color: white;
+}
+
+ 
+
+
+
+header{
+    display: flex;
+    justify-content:space-between;
+   background-color:cadetblue ;
+   width:1000;
+   height:100px;
+   align-items: center;
+   
+}
+body{
+    background-color: aqua;
+    color:black;
+}
+
+header nav ul li a{
+    color: white;
+
+}
+
+h1{
+    color: white;
+}
+.text{
+    display: flex;
+   
+    
+}
+
+.dani{
+    display: flex;
+}
